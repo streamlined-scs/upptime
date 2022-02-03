@@ -31,8 +31,8 @@ sites:
     url: https://wsdl-ga.streamlined-scs.cl/api/Scsdocumentos/getLogo
   - name: WSDL SAM Dreams
     url: https://wsdl-md.streamlined-scs.cl/api/Scsdocumentos/getLogo
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Meet Jitsi Streamlined
+    url: https://jitsi.streamlined-scs.cl
 
 assignees:
 - streamlined-scs
