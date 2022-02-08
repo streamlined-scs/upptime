@@ -202,19 +202,19 @@
     "url": "https://wsdl-hl.streamlined-scs.cl/api/Scsdocumentos/getLogo",
     "icon": "https://favicons.githubusercontent.com/wsdl-hl.streamlined-scs.cl",
     "slug": "wsdl-sam-highlift",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 503,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "98.33%",
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
+    "time": 480,
+    "timeDay": 489,
+    "timeWeek": 480,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2022-02-08": 0
+      "2022-02-08": 117
     }
   },
   {
@@ -259,18 +259,18 @@
     "icon": "https://favicons.githubusercontent.com/seam.cencosud.com",
     "slug": "wsdl-cencosud-documentos",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 876,
     "timeDay": 876,
     "timeWeek": 876,
     "timeMonth": 876,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2022-02-08": 136
+      "2022-02-08": 254
     }
   },
   {
