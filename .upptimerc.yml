@@ -31,6 +31,8 @@ sites:
     url: https://wsdl-ga.streamlined-scs.cl/api/Scsdocumentos/getLogo
   - name: WSDL SAM Dreams
     url: https://wsdl-md.streamlined-scs.cl/api/Scsdocumentos/getLogo
+  - name: WSDL Cencosud Documentos
+    url: https://seam.cencosud.com/subirArchivo
   - name: Meet Jitsi Streamlined
     url: https://jitsi.streamlined-scs.cl
 
