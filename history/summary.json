@@ -202,18 +202,20 @@
     "url": "https://wsdl-hl.streamlined-scs.cl/api/Scsdocumentos/getLogo",
     "icon": "https://favicons.githubusercontent.com/wsdl-hl.streamlined-scs.cl",
     "slug": "wsdl-sam-highlift",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 506,
-    "timeWeek": 482,
-    "timeMonth": 482,
-    "timeYear": 482,
-    "dailyMinutesDown": {}
+    "time": 484,
+    "timeDay": 503,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "WSDL SAM Grupo America",
@@ -257,18 +259,18 @@
     "icon": "https://favicons.githubusercontent.com/seam.cencosud.com",
     "slug": "wsdl-cencosud-documentos",
     "status": "down",
-    "uptime": "9.91%",
-    "uptimeDay": "9.91%",
-    "uptimeWeek": "9.91%",
-    "uptimeMonth": "9.91%",
-    "uptimeYear": "9.91%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 876,
     "timeDay": 876,
     "timeWeek": 876,
     "timeMonth": 876,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2022-02-08": 0
+      "2022-02-08": 136
     }
   },
   {
