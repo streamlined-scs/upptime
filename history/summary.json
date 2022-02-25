@@ -4,19 +4,19 @@
     "url": "https://streamlined.cl",
     "icon": "https://favicons.githubusercontent.com/streamlined.cl",
     "slug": "pagina-web-streamlined",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4544,
-    "timeDay": 4262,
-    "timeWeek": 4621,
-    "timeMonth": 4544,
-    "timeYear": 4544,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4535,
+    "timeDay": 4289,
+    "timeWeek": 4583,
+    "timeMonth": 4535,
+    "timeYear": 4535,
     "dailyMinutesDown": {
-      "2022-02-25": 0
+      "2022-02-25": 10
     }
   },
   {
