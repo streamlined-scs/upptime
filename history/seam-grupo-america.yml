@@ -1,7 +1,7 @@
 url: https://seam-ga.streamlined-scs.cl
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2022-02-25T23:30:09.488Z
+status: down
+code: 502
+responseTime: 393
+lastUpdated: 2022-02-26T17:50:28.645Z
 startTime: Thu Feb 03 2022 21:46:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
