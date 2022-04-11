@@ -13,6 +13,8 @@ sites:
     url: https://workspace.streamlined-scs.cl
   - name: SMGI Metabase Streamlined
     url: https://mgi.streamlined-scs.cl
+  - name: SMGI Grafana Streamlined
+    url: https://smgi.streamlined-scs.cl/login
   - name: EAM Cencosud
     url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD
   - name: EAM Maara
@@ -31,8 +33,8 @@ sites:
     url: https://wsdl-ga.streamlined-scs.cl/api/Scsdocumentos/getLogo
   - name: WSDL SAM Dreams
     url: https://wsdl-md.streamlined-scs.cl/api/Scsdocumentos/getLogo
-  - name: WSDL Cencosud Documentos
-    url: https://seam.cencosud.com/subirArchivo
+  - name: WSDL Cencosud
+    url: https://seam.cencosud.com/birt/frameset?__report=SCS_reporte_orden_compra_prod.rptdesign&__format=PDF&ORDERCODE=235883
   - name: Meet Jitsi Streamlined
     url: https://jitsi.streamlined-scs.cl
 
