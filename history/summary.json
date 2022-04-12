@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 3837,
     "timeDay": 1453,
-    "timeWeek": 2292,
+    "timeWeek": 2250,
     "timeMonth": 3028,
     "timeYear": 3837,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.30%",
     "time": 649,
     "timeDay": 684,
-    "timeWeek": 641,
+    "timeWeek": 648,
     "timeMonth": 645,
     "timeYear": 649,
     "dailyMinutesDown": {
@@ -86,7 +86,7 @@
     "uptimeYear": "98.89%",
     "time": 1690,
     "timeDay": 1821,
-    "timeWeek": 1756,
+    "timeWeek": 1755,
     "timeMonth": 1682,
     "timeYear": 1690,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "uptimeYear": "98.85%",
     "time": 1209,
     "timeDay": 1123,
-    "timeWeek": 998,
+    "timeWeek": 996,
     "timeMonth": 1503,
     "timeYear": 1209,
     "dailyMinutesDown": {
@@ -134,11 +134,11 @@
     "icon": "https://favicons.githubusercontent.com/smgi.streamlined-scs.cl",
     "slug": "smgi-grafana-streamlined",
     "status": "up",
-    "uptime": "95.21%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "95.21%",
-    "uptimeMonth": "95.21%",
-    "uptimeYear": "95.21%",
+    "uptime": "95.90%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "95.90%",
+    "uptimeYear": "95.90%",
     "time": 765,
     "timeDay": 765,
     "timeWeek": 765,
@@ -161,7 +161,7 @@
     "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 849,
-    "timeWeek": 835,
+    "timeWeek": 878,
     "timeMonth": 701,
     "timeYear": 611,
     "dailyMinutesDown": {}
@@ -172,14 +172,14 @@
     "icon": "https://favicons.githubusercontent.com/eam.maaracorp.com",
     "slug": "eam-maara",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.04%",
     "time": 166,
     "timeDay": 205,
-    "timeWeek": 177,
+    "timeWeek": 173,
     "timeMonth": 171,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -202,7 +202,7 @@
     "uptimeYear": "100.00%",
     "time": 810,
     "timeDay": 735,
-    "timeWeek": 699,
+    "timeWeek": 687,
     "timeMonth": 740,
     "timeYear": 810,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "uptimeYear": "99.18%",
     "time": 686,
     "timeDay": 466,
-    "timeWeek": 449,
+    "timeWeek": 448,
     "timeMonth": 967,
     "timeYear": 686,
     "dailyMinutesDown": {
@@ -246,7 +246,7 @@
     "uptimeYear": "99.20%",
     "time": 736,
     "timeDay": 1576,
-    "timeWeek": 724,
+    "timeWeek": 751,
     "timeMonth": 1025,
     "timeYear": 736,
     "dailyMinutesDown": {
@@ -271,7 +271,7 @@
     "uptimeYear": "99.20%",
     "time": 679,
     "timeDay": 492,
-    "timeWeek": 446,
+    "timeWeek": 447,
     "timeMonth": 946,
     "timeYear": 679,
     "dailyMinutesDown": {
@@ -296,7 +296,7 @@
     "uptimeYear": "97.92%",
     "time": 500,
     "timeDay": 484,
-    "timeWeek": 457,
+    "timeWeek": 456,
     "timeMonth": 551,
     "timeYear": 500,
     "dailyMinutesDown": {
@@ -323,7 +323,7 @@
     "uptimeYear": "96.80%",
     "time": 499,
     "timeDay": 476,
-    "timeWeek": 448,
+    "timeWeek": 447,
     "timeMonth": 535,
     "timeYear": 499,
     "dailyMinutesDown": {
@@ -374,18 +374,19 @@
     "icon": "https://favicons.githubusercontent.com/seam.cencosud.com",
     "slug": "wsdl-cencosud",
     "status": "down",
-    "uptime": "92.70%",
-    "uptimeDay": "92.70%",
-    "uptimeWeek": "92.70%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "92.70%",
+    "uptime": "79.48%",
+    "uptimeDay": "79.48%",
+    "uptimeWeek": "79.48%",
+    "uptimeMonth": "79.48%",
+    "uptimeYear": "79.48%",
     "time": 980,
     "timeDay": 980,
     "timeWeek": 980,
     "timeMonth": 980,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2022-04-11": 36
+      "2022-04-12": 33,
+      "2022-04-11": 84
     }
   },
   {
@@ -401,7 +402,7 @@
     "uptimeYear": "99.38%",
     "time": 716,
     "timeDay": 777,
-    "timeWeek": 704,
+    "timeWeek": 701,
     "timeMonth": 721,
     "timeYear": 716,
     "dailyMinutesDown": {
