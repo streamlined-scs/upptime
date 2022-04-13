@@ -33,7 +33,9 @@ sites:
     url: https://wsdl-ga.streamlined-scs.cl/api/Scsdocumentos/getLogo
   - name: WSDL SAM Dreams
     url: https://wsdl-md.streamlined-scs.cl/api/Scsdocumentos/getLogo
-  - name: WSDL Cencosud
+  - name: WSDL Cencosud Mobile SAM
+    url: https://seam.cencosud.com/WsseamPROD/WSEAMC/ws/ObtenerEquipos?OBJ_MRC=E585&OBJ_ESPE=TV
+  - name: WSDL Cencosud Reportes
     url: https://seam.cencosud.com/birt/frameset?__report=SCS_reporte_orden_compra_prod.rptdesign&__format=PDF&ORDERCODE=235883
   - name: Meet Jitsi Streamlined
     url: https://jitsi.streamlined-scs.cl
