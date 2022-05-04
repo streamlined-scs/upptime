@@ -33,6 +33,8 @@ sites:
     url: https://wsdl-ga.streamlined-scs.cl/api/Scsdocumentos/getLogo
   - name: WSDL SAM Dreams
     url: https://wsdl-md.streamlined-scs.cl/api/Scsdocumentos/getLogo
+  - name: WSDL Maara Mobile SAT
+    url: http://eam.maaracorp.com:8083/WsseamSAT/WSEAMC/ws/ObtenerOrdenesdetrabajo?EVT_PERSON=4205  
   - name: WSDL Cencosud Mobile SAM
     url: https://seam.cencosud.com/WsseamPROD/WSEAMC/ws/ObtenerEquipos?OBJ_MRC=E585&OBJ_ESPE=TV
   - name: WSDL Cencosud Reportes
