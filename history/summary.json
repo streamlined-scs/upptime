@@ -4,9 +4,9 @@
     "url": "https://streamlined.cl",
     "icon": "https://favicons.githubusercontent.com/streamlined.cl",
     "slug": "pagina-web-streamlined",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1863,
     "timeYear": 3228,
     "dailyMinutesDown": {
+      "2022-05-13": 0,
       "2022-04-06": 37
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/freepbx.streamlined-scs.cl",
     "slug": "central-telefonica-streamlined",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "96.59%",
-    "uptimeYear": "98.46%",
+    "uptimeYear": "98.47%",
     "time": 747,
     "timeDay": 780,
     "timeWeek": 682,
