@@ -1,7 +1,7 @@
 url: https://wsdl-md.streamlined-scs.cl/api/Scsdocumentos/getLogo
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2022-05-22T23:11:05.836Z
+status: down
+code: 502
+responseTime: 403
+lastUpdated: 2022-05-23T20:27:10.047Z
 startTime: Thu Feb 03 2022 21:46:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
