@@ -213,9 +213,9 @@
     "url": "http://eam.blumar.com/web/base/logindisp?tenant=EAMPROD",
     "icon": "https://favicons.githubusercontent.com/eam.blumar.com",
     "slug": "eam-blumar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
@@ -225,6 +225,7 @@
     "timeMonth": 688,
     "timeYear": 775,
     "dailyMinutesDown": {
+      "2022-07-22": 0,
       "2022-07-14": 46,
       "2022-07-13": 40
     }
@@ -390,11 +391,11 @@
     "icon": "https://favicons.githubusercontent.com/wsdl-md.streamlined-scs.cl",
     "slug": "wsdl-sam-dreams",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.63%",
     "time": 559,
     "timeDay": 471,
     "timeWeek": 474,
