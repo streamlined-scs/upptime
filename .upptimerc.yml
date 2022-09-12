@@ -13,6 +13,8 @@ sites:
     url: https://workspace.streamlined-scs.cl
   - name: SMGI Metabase Streamlined
     url: https://mgi.streamlined-scs.cl
+  - name: GITLAB Streamlined
+    url: https://gitlab.streamlined-scs.cl/users/sign_in
   - name: SMGI Grafana Streamlined
     url: https://smgi.streamlined-scs.cl/login
   - name: EAM Cencosud
