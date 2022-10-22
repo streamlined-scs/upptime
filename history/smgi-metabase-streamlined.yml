@@ -1,7 +1,7 @@
 url: https://mgi.streamlined-scs.cl
-status: up
-code: 200
-responseTime: 1076
-lastUpdated: 2022-10-22T15:37:11.847Z
+status: down
+code: 502
+responseTime: 378
+lastUpdated: 2022-10-22T15:56:49.514Z
 startTime: Thu Feb 03 2022 21:45:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
