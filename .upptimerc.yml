@@ -3,20 +3,6 @@ owner: streamlined-scs # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Pagina Web Streamlined
-    url: https://streamlined.cl
-  - name: Central Telefonica Streamlined
-    url: https://freepbx.streamlined-scs.cl/admin/config.php
-  - name: NAS Streamlined
-    url: https://nas.streamlined-scs.cl
-  - name: Workspace Streamlined
-    url: https://workspace.streamlined-scs.cl
-  - name: SMGI Metabase Streamlined
-    url: https://mgi.streamlined-scs.cl
-  - name: GITLAB Streamlined
-    url: https://gitlab.streamlined-scs.cl/users/sign_in
-  - name: SMGI Grafana Streamlined
-    url: https://smgi.streamlined-scs.cl/login
   - name: EAM Cencosud
     url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD
   - name: EAM Maara
@@ -40,9 +26,27 @@ sites:
   - name: WSDL Cencosud Mobile SAM
     url: https://seam.cencosud.com/WsseamPROD/WSEAMC/ws/ObtenerEquipos?OBJ_MRC=E585&OBJ_ESPE=TV
   - name: WSDL Cencosud Reportes
-    url: https://seam.cencosud.com/birt/frameset?__report=SCS_reporte_orden_compra_prod.rptdesign&__format=PDF&ORDERCODE=235883
+    url: https://seam.cencosud.com/birt/frameset?__report=SCS_reporte_orden_compra_prod.rptdesign&__format=PDF&ORDERCODE=235883    
+  - name: Pagina Web Streamlined
+    url: https://streamlined.cl
+  - name: Central Telefonica Streamlined
+    url: https://freepbx.streamlined-scs.cl/admin/config.php
+  - name: NAS Streamlined
+    url: https://nas.streamlined-scs.cl
+  - name: Workspace Streamlined
+    url: https://workspace.streamlined-scs.cl
+  - name: SMGI Metabase Streamlined
+    url: https://mgi.streamlined-scs.cl
+  - name: GITLAB Streamlined
+    url: https://gitlab.streamlined-scs.cl/users/sign_in
+  - name: WIKI SCS Streamlined
+    url: https://wikijs.streamlined-scs.cl/login
   - name: Meet Jitsi Streamlined
     url: https://jitsi.streamlined-scs.cl
+  - name: Rocket.Chat Streamlined
+    url: https://rocket.streamlined-scs.cl/
+  - name: WebMail Streamlined
+    url: https://webmail.streamlined.cl/
 
 assignees:
 - streamlined-scs
