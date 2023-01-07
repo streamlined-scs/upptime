@@ -439,19 +439,19 @@
     "url": "https://freepbx.streamlined-scs.cl/admin/config.php",
     "icon": "https://icons.duckduckgo.com/ip3/freepbx.streamlined-scs.cl.ico",
     "slug": "central-telefonica-streamlined",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "81.37%",
+    "uptimeDay": "81.33%",
     "uptimeWeek": "91.54%",
     "uptimeMonth": "96.81%",
     "uptimeYear": "98.99%",
     "time": 690,
-    "timeDay": 561,
+    "timeDay": 566,
     "timeWeek": 566,
     "timeMonth": 588,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2023-01-07": 174,
+      "2023-01-07": 175,
       "2023-01-06": 93,
       "2023-01-05": 285,
       "2023-01-04": 300,
@@ -715,7 +715,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-07": 240,
+      "2023-01-07": 280,
       "2023-01-06": 1440,
       "2023-01-05": 523
     }
