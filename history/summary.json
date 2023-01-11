@@ -441,7 +441,7 @@
     "slug": "central-telefonica-streamlined",
     "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "28.81%",
+    "uptimeDay": "34.28%",
     "uptimeWeek": "51.77%",
     "uptimeMonth": "87.66%",
     "uptimeYear": "98.18%",
@@ -718,7 +718,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 1400,
+      "2023-01-11": 39,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
