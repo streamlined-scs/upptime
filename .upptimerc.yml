@@ -46,7 +46,7 @@ sites:
   - name: Rocket.Chat Streamlined
     url: https://rocket.streamlined-scs.cl/
   - name: WebMail Streamlined
-    url: https://webmail.streamlined.cl/
+    url: http://webmail.streamlined.cl/
 
 assignees:
 - streamlined-scs
