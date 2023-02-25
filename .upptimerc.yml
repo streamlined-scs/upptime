@@ -45,8 +45,9 @@ sites:
     url: https://jitsi.streamlined-scs.cl
   - name: Rocket.Chat Streamlined
     url: https://rocket.streamlined-scs.cl/
-  - name: WebMail Streamlined
-    url: http://webmail.streamlined.cl/
+  - name: Matrix Element Streamlined
+    url: https://matrix.streamlined-scs.cl
+
 
 assignees:
 - streamlined-scs
