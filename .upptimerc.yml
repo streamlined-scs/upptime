@@ -64,7 +64,7 @@ status-website:
   navbar:
     - title: Status SCS Chile
       href: https://streamlined.cl
-    - title: GitHub SCS
+    - title: GitHub Streamlined SCS 
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
