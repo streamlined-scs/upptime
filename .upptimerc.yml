@@ -10,11 +10,11 @@ sites:
   - name: EAM Blumar
     url: http://eam.blumar.com/web/base/logindisp?tenant=EAMPROD
   - name: SEAM Dreams
-    url: https://seam-md.streamlined-scs.cl
+    url: https://seam-md.streamlined-app.io
   - name: SEAM Highlift
-    url: https://seam-hl.streamlined-scs.cl
+    url: https://seam-hl.streamlined-app.io
   - name: SEAM Grupo America
-    url: https://seam-ga.streamlined-scs.cl
+    url: https://seam-ga.streamlined-app.io
   - name: WSDL SAM Highlift
     url: https://wsdl-hl.streamlined-scs.cl/api/Scsdocumentos/getLogo
   - name: WSDL SAM Grupo America
