@@ -246,8 +246,8 @@
     "slug": "wsdl-sam-dreams",
     "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 512,
@@ -256,7 +256,7 @@
     "timeMonth": 552,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2023-05-02": 1,
+      "2023-05-02": 2,
       "2022-12-16": 535,
       "2022-10-14": 47,
       "2022-10-13": 38,
@@ -601,8 +601,8 @@
     "slug": "rocket-chat-streamlined",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 964,
@@ -611,7 +611,7 @@
     "timeMonth": 0,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2023-05-02": 1
+      "2023-05-02": 2
     }
   },
   {
