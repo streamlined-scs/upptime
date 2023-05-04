@@ -31,6 +31,8 @@ sites:
     url: https://seam.cencosud.com/birt/frameset?__report=SCS_reporte_orden_compra_prod.rptdesign&__format=PDF&ORDERCODE=235883    
   - name: Pagina Web Streamlined
     url: https://streamlined.cl
+  - name: Correo Streamlined
+    url: https://www.streamlined.cl/webmail/log-in
   - name: Central Telefonica Streamlined
     url: https://freepbx.streamlined-scs.cl/admin/config.php
   - name: NAS Streamlined
@@ -74,7 +76,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://streamlined.cl/logos/logo%20SCS1.png
   name: Streamlined SCS Upptime
-  introTitle: "**Upptime Streamlined** es nuestra web de control del upptime de paginas, powered entirely by GitHub."
+  introTitle: "**Upptime Streamlined** es nuestra web de control upptime de Servicios Web, powered entirely by GitHub."
   introMessage: Esta es una pagina que representa el estado de **UPTIME** de nuestros servicios **real-time**
   navbar:
     - title: Status Streamlined SCS
