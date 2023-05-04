@@ -54,7 +54,7 @@ sites:
   - name: SEAM SCS Demo
     url: https://seam-demo.streamlined-scs.cl/web/base/logindisp?tenant=SEAMXIII
   - name: WSDL SAM SCS Demo
-    url: https://wsdl-demo.streamlined-scs.cl/
+    url: https://wsdl-demo.streamlined-scs.cl/api/Scssalidabodega/getcontadorsalidabodega
   - name: SEAMX SCS Desa
     url: https://seam-admin-dev.streamlined-scs.cl/auth/login
   - name: EAM Maara Desa
