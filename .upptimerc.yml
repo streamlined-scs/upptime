@@ -17,6 +17,8 @@ sites:
     url: https://seam-hl.streamlined-app.io
   - name: SEAM Grupo America
     url: https://seam-ga.streamlined-app.io
+  - name: SEAM Report Grupo America
+    url: https://seam-rpt.streamlined-scs.cl/birt/frameset?__report=Scs_orden_trabajo_cliente.rptdesign&__format=PDF
   - name: WSDL SAM Highlift
     url: https://wsdl-hl.streamlined-app.io/api/Scsdocumentos/getLogo
   - name: WSDL SAM Grupo America
