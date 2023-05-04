@@ -688,18 +688,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsdl-demo.streamlined-scs.cl.ico",
     "slug": "wsdl-sam-scs-demo",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 470,
     "timeDay": 470,
     "timeWeek": 470,
     "timeMonth": 470,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-05-04": 84
+      "2023-05-04": 85
     }
   },
   {
@@ -762,11 +762,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsdl-cencosud.streamlined-scs.cl.ico",
     "slug": "wsdl-sam-cencosud-desa",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "uptime": "98.30%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
     "time": 197,
     "timeDay": 197,
     "timeWeek": 197,
@@ -782,18 +782,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spp-cenco.streamlined-scs.cl.ico",
     "slug": "spp-cencosud-desa",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 435,
     "timeDay": 435,
     "timeWeek": 435,
     "timeMonth": 435,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2023-05-04": 67
+      "2023-05-04": 68
     }
   }
 ]
