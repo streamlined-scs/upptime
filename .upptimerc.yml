@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: EAM Cencosud
     url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD
+  - name: SPP Cencosud
+    url: https://seam.cencosud.com/eam/      
   - name: EAM Maara
     url: http://eam.maaracorp.com:8081/web/base/logindisp?tenant=EAM
   - name: EAM Blumar
@@ -16,11 +18,11 @@ sites:
   - name: SEAM Grupo America
     url: https://seam-ga.streamlined-app.io
   - name: WSDL SAM Highlift
-    url: https://wsdl-hl.streamlined-scs.cl/api/Scsdocumentos/getLogo
+    url: https://wsdl-hl.streamlined-app.io/api/Scsdocumentos/getLogo
   - name: WSDL SAM Grupo America
-    url: https://wsdl-ga.streamlined-scs.cl/api/Scsdocumentos/getLogo
+    url: https://wsdl-ga.streamlined-app.io/api/Scsdocumentos/getLogo
   - name: WSDL SAM Dreams
-    url: https://wsdl-md.streamlined-scs.cl/api/Scsdocumentos/getLogo
+    url: https://wsdl-md.streamlined-app.io/api/Scsdocumentos/getLogo
   - name: WSDL Maara Mobile SAT
     url: http://eam.maaracorp.com:8083/WsseamSAT/WSEAMC/ws/ObtenerOrdenesdetrabajo?EVT_PERSON=4205  
   - name: WSDL Cencosud Mobile SAM
@@ -55,11 +57,11 @@ sites:
     url: https://seam-admin-dev.streamlined-scs.cl/auth/login
   - name: EAM Maara Desa
     url: https://maara.streamlined-scs.cl/web/base/logindisp
-  - name: EAM Cencosdu Desa
+  - name: EAM Cencosud Desa
     url: https://eam-cencodesa.streamlined-scs.cl/web/base/logindisp?tenant=SCSPROD 
-  - name: WSDL SAM Cencosdu Desa
+  - name: WSDL SAM Cencosud Desa
     url: https://eam-cencodesa.streamlined-scs.cl/web/base/logindisp?tenant=SCSPROD
-  - name: SPP Cencosdu Desa
+  - name: SPP Cencosud Desa
     url: https://spp-cenco.streamlined-scs.cl/auth/login
 
 assignees:
@@ -73,9 +75,9 @@ status-website:
   logoUrl: https://streamlined.cl/logos/logo%20SCS1.png
   name: Streamlined SCS Upptime
   introTitle: "**Upptime Streamlined** es nuestra web de control del upptime de paginas, powered entirely by GitHub."
-  introMessage: Esta es una pagina que representa el estado de una pagina en **real-time**
+  introMessage: Esta es una pagina que representa el estado de **UPTIME** de nuestros servicios **real-time**
   navbar:
-    - title: Status SCS Chile
+    - title: Status Streamlined SCS
       href: https://streamlined.cl
     - title: GitHub Streamlined SCS 
       href: https://github.com/$OWNER/$REPO
