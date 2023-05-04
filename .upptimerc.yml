@@ -4,9 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: EAM Cencosud
-    url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD
-  - name: SPP Cencosud
-    url: https://seam.cencosud.com/eam/      
+    url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD   
   - name: EAM Maara
     url: http://eam.maaracorp.com:8081/web/base/logindisp?tenant=EAM
   - name: EAM Blumar
