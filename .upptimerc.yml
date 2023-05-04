@@ -43,11 +43,24 @@ sites:
     url: https://wikijs.streamlined-scs.cl/login
   - name: Meet Jitsi Streamlined
     url: https://jitsi.streamlined-scs.cl
-  - name: Rocket.Chat Streamlined
-    url: https://rocket.streamlined-scs.cl/
-  - name: Matrix Element Streamlined
+  - name: Element Streamlined
+    url: https://element.streamlined-scs.cl/
+  - name: Matrix Streamlined
     url: https://matrix.streamlined-scs.cl
-
+  - name: SEAM SCS Demo
+    url: https://seam-demo.streamlined-scs.cl/web/base/logindisp?tenant=SEAMXIII
+  - name: WSDL SAM SCS Demo
+    url: https://wsdl-demo.streamlined-scs.cl/
+  - name: SEAMX SCS Desa
+    url: https://seam-admin-dev.streamlined-scs.cl/auth/login
+  - name: EAM Maara Desa
+    url: https://maara.streamlined-scs.cl/web/base/logindisp
+  - name: EAM Cencosdu Desa
+    url: https://eam-cencodesa.streamlined-scs.cl/web/base/logindisp?tenant=SCSPROD 
+  - name: WSDL SAM Cencosdu Desa
+    url: https://eam-cencodesa.streamlined-scs.cl/web/base/logindisp?tenant=SCSPROD
+  - name: SPP Cencosdu Desa
+    url: https://spp-cenco.streamlined-scs.cl/auth/login
 
 assignees:
 - streamlined-scs
