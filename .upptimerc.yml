@@ -64,7 +64,9 @@ sites:
   - name: EAM Cencosud Desa
     url: https://eam-cencodesa.streamlined-scs.cl/web/base/logindisp?tenant=SCSPROD 
   - name: WSDL SAM Cencosud Desa
-    url: https://wsdl-cencosud.streamlined-scs.cl/WsseamPROD/WSEAMC/ws/ObtenerdatosProveedorSPP?EVT_PERSON=4100017303
+    url: https://ws-cenco-sam.streamlined-scs.cl/WsseamPROD/WSEAMC/ws/ObtenerEquipos?OBJ_MRC=E585&OBJ_ESPE=TV
+  - name: WSDL DOC Cencosud Desa
+    url: https://ws-cenco-doc.streamlined-scs.cl/
   - name: SPP Cencosud Desa
     url: https://spp-cenco.streamlined-scs.cl/auth/login
 
