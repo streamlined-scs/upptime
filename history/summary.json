@@ -45,9 +45,9 @@
     "slug": "eam-maara",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.89%",
     "time": 182,
     "timeDay": 1222,
@@ -55,7 +55,7 @@
     "timeMonth": 233,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2023-05-18": 1,
+      "2023-05-18": 11,
       "2022-10-15": 556,
       "2022-06-06": 17
     }
@@ -312,9 +312,9 @@
     "url": "http://eam.maaracorp.com:8083/WsseamSAT/WSEAMC/ws/ObtenerOrdenesdetrabajo?EVT_PERSON=4205",
     "icon": "https://icons.duckduckgo.com/ip3/eam.maaracorp.com.ico",
     "slug": "wsdl-maara-mobile-sat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.89%",
@@ -324,6 +324,7 @@
     "timeMonth": 159,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2023-05-18": 1,
       "2023-05-07": 552,
       "2022-12-23": 17
     }
@@ -771,11 +772,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws-cenco-sam.streamlined-scs.cl.ico",
     "slug": "wsdl-sam-cencosud-desa",
     "status": "up",
-    "uptime": "48.37%",
+    "uptime": "48.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "48.37%",
-    "uptimeYear": "48.37%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "48.40%",
+    "uptimeYear": "48.40%",
     "time": 421,
     "timeDay": 393,
     "timeWeek": 489,
