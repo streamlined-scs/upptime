@@ -1,7 +1,7 @@
 url: https://seam-ga.streamlined-app.io
-status: up
-code: 200
-responseTime: 375
-lastUpdated: 2023-05-19T23:12:54.385Z
+status: down
+code: 502
+responseTime: 19006
+lastUpdated: 2023-05-20T14:17:21.095Z
 startTime: Thu Feb 03 2022 21:46:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
