@@ -3,6 +3,8 @@ owner: streamlined-scs # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
+  - name: SAM VTR
+    url: https://seam.vtr.cl/obtenerListadoActividades?wsdl
   - name: EAM Cencosud
     url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD
   - name: SPP Cencosud
