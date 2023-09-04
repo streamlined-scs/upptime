@@ -12,7 +12,7 @@ sites:
   - name: EAM Maara
     url: http://eam.maaracorp.com:8081/web/base/logindisp?tenant=EAM
   - name: EAM11 Blumar
-    url: https://eambl.blumar.com/web/base/logindisp?tenant=EAMTEST
+    url: https://eambl.blumar.com
   - name: EAM Blumar
     url: http://eam.blumar.com/web/base/logindisp?tenant=EAMPROD
   - name: SEAM Dreams
