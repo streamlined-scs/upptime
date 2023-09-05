@@ -11,7 +11,7 @@ sites:
     url: https://seam.cencosud.com/eam/auth/login
   - name: EAM Maara
     url: http://eam.maaracorp.com:8081/web/base/logindisp?tenant=EAM
-  - name: EAM Blumar
+  - name: EAM10 Blumar
     url: http://eam.blumar.com/web/base/logindisp?tenant=EAMPROD
   - name: SEAM Dreams
     url: https://seam-md.streamlined-app.io
