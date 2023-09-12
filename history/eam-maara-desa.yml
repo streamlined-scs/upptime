@@ -1,7 +1,7 @@
-url: https://seam-admin-dev.streamlined-scs.cl/auth/login
+url: https://maara.streamlined-scs.cl/web/base/logindisp?tenant=EAM
 status: up
 code: 200
-responseTime: 159
-lastUpdated: 2023-09-11T23:13:53.871Z
+responseTime: 1020
+lastUpdated: 2023-09-12T15:07:18.824Z
 startTime: 2023-05-04T14:27:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
