@@ -62,7 +62,7 @@ sites:
   - name: SEAMX SCS Desa
     url: https://seam-admin-dev.streamlined-scs.cl/auth/login
   - name: EAM Maara Desa
-    url: https://seam-admin-dev.streamlined-scs.cl/auth/login
+    url: https://maara.streamlined-scs.cl/web/base/logindisp?tenant=EAM
   - name: SAT Maara Desa
     url: https://ws-sat.streamlined-scs.cl/WsseamSAT/WSEAMC/ws/ObtenerEmpleado?MRC_CODE=RG-FAJ
   - name: EAM Cencosud Desa
