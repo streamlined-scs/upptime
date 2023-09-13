@@ -9,8 +9,8 @@ sites:
     url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD
   - name: SPP Cencosud
     url: https://seam.cencosud.com/eam/auth/login
-  - name: EAM11 Blumar
-    url: https://eambl.blumar.com/
+  - name: EAM Blumar AWS
+    url: https://eambl.blumar.com/web/base/logindisp?tenant=EAMTEST
   - name: EAM Maara
     url: http://eam.maaracorp.com:8081/web/base/logindisp?tenant=EAM
   - name: EAM10 Blumar
