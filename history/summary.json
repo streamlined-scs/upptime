@@ -72,18 +72,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eambl.blumar.com.ico",
     "slug": "eam-blumar-aws",
     "status": "down",
-    "uptime": "5.12%",
-    "uptimeDay": "5.12%",
-    "uptimeWeek": "5.12%",
-    "uptimeMonth": "5.12%",
-    "uptimeYear": "5.12%",
+    "uptime": "1.92%",
+    "uptimeDay": "1.92%",
+    "uptimeWeek": "1.92%",
+    "uptimeMonth": "1.92%",
+    "uptimeYear": "1.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-13": 1
+      "2023-09-13": 2
     }
   },
   {
