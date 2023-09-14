@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-14": 573,
+      "2023-09-14": 582,
       "2023-09-13": 612
     }
   },
@@ -118,19 +118,19 @@
     "url": "http://eam.blumar.com/web/base/logindisp?tenant=EAMPROD",
     "icon": "https://icons.duckduckgo.com/ip3/eam.blumar.com.ico",
     "slug": "eam-10-blumar",
-    "status": "down",
-    "uptime": "97.85%",
-    "uptimeDay": "99.97%",
+    "status": "up",
+    "uptime": "97.79%",
+    "uptimeDay": "99.37%",
     "uptimeWeek": "98.42%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "97.85%",
-    "time": 659,
-    "timeDay": 606,
-    "timeWeek": 650,
-    "timeMonth": 659,
-    "timeYear": 659,
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "97.79%",
+    "time": 658,
+    "timeDay": 614,
+    "timeWeek": 649,
+    "timeMonth": 658,
+    "timeYear": 658,
     "dailyMinutesDown": {
-      "2023-09-14": 0,
+      "2023-09-14": 9,
       "2023-09-07": 275
     }
   },
