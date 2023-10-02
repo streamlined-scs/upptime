@@ -1,7 +1,7 @@
 url: https://wsdl-demo.streamlined-scs.cl/api/Scssalidabodega/getcontadorsalidabodega
-status: down
-code: 502
-responseTime: 477
-lastUpdated: 2023-10-02T13:32:55.135Z
+status: up
+code: 200
+responseTime: 564
+lastUpdated: 2023-10-02T13:42:00.249Z
 startTime: 2023-05-04T14:27:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
