@@ -1,7 +1,7 @@
 url: https://nas.streamlined-scs.cl
-status: up
-code: 200
-responseTime: 852
-lastUpdated: 2023-10-27T23:12:27.694Z
+status: down
+code: 502
+responseTime: 544
+lastUpdated: 2023-10-28T19:52:55.359Z
 startTime: 2022-02-03T21:45:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
