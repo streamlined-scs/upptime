@@ -1,7 +1,7 @@
 url: https://seam-admin-dev.streamlined-scs.cl/auth/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-09T23:49:51.493Z
+status: up
+code: 200
+responseTime: 526
+lastUpdated: 2023-11-09T23:58:52.423Z
 startTime: 2023-05-04T14:27:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
