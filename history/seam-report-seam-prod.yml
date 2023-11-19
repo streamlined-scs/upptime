@@ -1,7 +1,7 @@
 url: https://seam-rpt.streamlined-app.io/birt/frameset?__report=Scs_orden_trabajo_cliente.rptdesign&__format=PDF
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2023-11-18T23:12:27.698Z
+status: down
+code: 502
+responseTime: 18812
+lastUpdated: 2023-11-19T12:41:41.576Z
 startTime: 2023-05-05T16:10:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
