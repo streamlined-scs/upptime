@@ -1,7 +1,7 @@
 url: https://wikijs.streamlined-scs.cl/login
-status: down
-code: 502
-responseTime: 18876
-lastUpdated: 2023-11-29T06:30:47.414Z
+status: up
+code: 200
+responseTime: 454
+lastUpdated: 2023-11-29T06:40:08.801Z
 startTime: 2023-01-05T15:17:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
