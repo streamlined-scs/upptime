@@ -1,7 +1,7 @@
 url: http://eam.maaracorp.com:8081/web/base/logindisp?tenant=EAM
-status: up
-code: 200
-responseTime: 87
-lastUpdated: 2023-11-29T23:13:06.417Z
+status: down
+code: 404
+responseTime: 55
+lastUpdated: 2023-11-29T23:58:12.574Z
 startTime: 2022-02-03T21:45:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
