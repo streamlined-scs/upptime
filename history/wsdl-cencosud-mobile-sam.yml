@@ -1,7 +1,7 @@
 url: https://seam.cencosud.com/WsseamPROD/WSEAMC/ws/ObtenerEquipos?OBJ_MRC=E585&OBJ_ESPE=TV
-status: up
-code: 200
-responseTime: 44
-lastUpdated: 2023-11-28T23:13:12.990Z
+status: down
+code: 500
+responseTime: 14839
+lastUpdated: 2023-11-29T17:26:11.772Z
 startTime: 2022-04-13T23:23:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
