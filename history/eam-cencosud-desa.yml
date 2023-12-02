@@ -1,7 +1,7 @@
 url: https://eam-cencodesa.streamlined-scs.cl/web/base/logindisp?tenant=SCSPROD
-status: down
-code: 502
-responseTime: 403
-lastUpdated: 2023-12-02T19:03:18.663Z
+status: up
+code: 200
+responseTime: 627
+lastUpdated: 2023-12-02T19:15:49.441Z
 startTime: 2023-05-04T14:44:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
