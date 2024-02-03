@@ -9,12 +9,14 @@ sites:
     url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD
   - name: SPP Cencosud
     url: https://seam.cencosud.com/eam/auth/login
-  - name: EAM Blumar AWS
-    url: https://eambl.blumar.com/web/base/logindisp?tenant=EAMTEST
+  - name: EAM Blumar
+    url: https://eambl.blumar.com/web/base/logindisp?tenant=EAMPROD
+  - name: Reporte EAM Blumar
+    url: https://eamrpt.blumar.com/birt2/frameset?__report=Blumar_orden_trabajo_prod.rptdesign&__format=pdf
+  - name: SAM EndPoint Blumar
+    url: https://eamep.blumar.com/api/Scsactividades/getActivitieespecialidad
   - name: EAM Maara
     url: http://eam.maaracorp.com:8081/web/base/logindisp?tenant=EAM
-  - name: EAM10 Blumar
-    url: http://eam.blumar.com/web/base/logindisp?tenant=EAMPROD
   - name: SEAM Dreams
     url: https://seam-md.streamlined-app.io
   - name: SEAM Highlift
@@ -73,6 +75,8 @@ sites:
     url: https://ws-cenco-sam.streamlined-scs.cl/WsseamPROD/WSEAMC/ws/ObtenerEquipos?OBJ_MRC=E585&OBJ_ESPE=TV
   - name: SPP Cencosud Desa
     url: https://spp-cenco.streamlined-scs.cl/auth/login
+  - name: EAM Blumar Desa
+    url: https://eam-blumar.streamlined-scs.cl/web/base/logindisp
 
 assignees:
 - streamlined-scs
