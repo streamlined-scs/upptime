@@ -95,9 +95,9 @@
     "slug": "eam-blumar",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1023,
     "timeDay": 0,
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-02-03": 1,
+      "2024-02-03": 2,
       "2023-08-29": 89,
       "2023-08-28": 31,
       "2023-08-07": 80,
@@ -118,18 +118,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eamrpt.blumar.com.ico",
     "slug": "reporte-eam-blumar",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-03": 1
+      "2024-02-03": 2
     }
   },
   {
@@ -138,18 +138,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eamep.blumar.com.ico",
     "slug": "sam-end-point-blumar",
     "status": "down",
-    "uptime": "1.31%",
-    "uptimeDay": "1.31%",
-    "uptimeWeek": "1.31%",
-    "uptimeMonth": "1.31%",
-    "uptimeYear": "1.31%",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-03": 1
+      "2024-02-03": 2
     }
   },
   {
@@ -567,7 +567,7 @@
     "status": "up",
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.35%",
+    "uptimeWeek": "82.36%",
     "uptimeMonth": "94.53%",
     "uptimeYear": "99.37%",
     "time": 1291,
