@@ -10,7 +10,7 @@ sites:
   - name: SPP Cencosud
     url: https://seam.cencosud.com/eam/auth/login
   - name: EAM Blumar
-    url: https://eambl.blumar.com/web/base/logindisp?tenant=EAMPROD
+    url: https://eambl.blumar.com
   - name: Reporte EAM Blumar
     url: https://eamrpt.blumar.com/birt2/frameset?__report=Blumar_orden_trabajo_prod.rptdesign&__format=pdf
   - name: SAM EndPoint Blumar
