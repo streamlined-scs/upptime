@@ -1,7 +1,7 @@
 url: https://wsdl-ga.streamlined-app.io/api/Scsdocumentos/getLogo
-status: down
-code: 502
-responseTime: 1841
-lastUpdated: 2024-02-24T16:57:40.953Z
+status: up
+code: 200
+responseTime: 486
+lastUpdated: 2024-02-24T17:14:13.747Z
 startTime: 2022-02-03T21:46:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
