@@ -1,7 +1,7 @@
 url: https://workspace.streamlined-scs.cl
-status: up
-code: 200
-responseTime: 667
-lastUpdated: 2024-04-09T23:14:03.679Z
+status: down
+code: 502
+responseTime: 3616
+lastUpdated: 2024-04-10T14:45:23.875Z
 startTime: 2022-02-03T21:45:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
