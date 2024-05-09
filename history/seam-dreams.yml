@@ -1,7 +1,7 @@
 url: https://seam-md.streamlined-app.io
-status: up
-code: 200
-responseTime: 622
-lastUpdated: 2024-05-08T23:14:57.652Z
+status: down
+code: 502
+responseTime: 517
+lastUpdated: 2024-05-09T00:43:35.910Z
 startTime: 2022-02-03T21:46:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
