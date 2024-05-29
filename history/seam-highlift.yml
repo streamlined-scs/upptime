@@ -1,7 +1,7 @@
 url: https://seam-hl.streamlined-app.io
-status: up
-code: 200
-responseTime: 430
-lastUpdated: 2024-05-28T23:15:42.787Z
+status: down
+code: 502
+responseTime: 3364
+lastUpdated: 2024-05-29T16:34:13.839Z
 startTime: 2022-02-03T21:46:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
