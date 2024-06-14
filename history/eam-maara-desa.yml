@@ -1,7 +1,7 @@
 url: https://maara.streamlined-scs.cl/web/base/logindisp?tenant=EAM
-status: down
-code: 503
-responseTime: 7699
-lastUpdated: 2024-06-14T23:15:18.230Z
+status: up
+code: 200
+responseTime: 486
+lastUpdated: 2024-06-14T23:24:31.051Z
 startTime: 2023-05-04T14:27:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
