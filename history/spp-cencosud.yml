@@ -1,7 +1,7 @@
 url: https://seam.cencosud.com/eam/auth/login
-status: up
-code: 200
-responseTime: 1947
-lastUpdated: 2024-07-29T23:14:24.528Z
+status: down
+code: 502
+responseTime: 713
+lastUpdated: 2024-07-30T01:07:06.395Z
 startTime: 2023-05-04T15:25:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
