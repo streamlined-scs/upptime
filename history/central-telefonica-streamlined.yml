@@ -1,7 +1,7 @@
 url: https://freepbx.streamlined-scs.cl/admin/config.php
-status: up
-code: 200
-responseTime: 596
-lastUpdated: 2024-07-30T23:13:19.627Z
+status: down
+code: 502
+responseTime: 401
+lastUpdated: 2024-07-31T08:37:35.475Z
 startTime: 2022-02-03T21:45:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
