@@ -1,7 +1,7 @@
 url: https://seam-demo.streamlined-scs.cl/web/base/logindisp?tenant=SEAMXIII
-status: down
-code: 502
-responseTime: 524
-lastUpdated: 2024-09-14T22:59:39.688Z
+status: up
+code: 200
+responseTime: 499
+lastUpdated: 2024-09-14T23:15:06.280Z
 startTime: 2023-05-04T14:27:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
