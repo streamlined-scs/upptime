@@ -1,7 +1,7 @@
 url: https://ws-cenco-sam.streamlined-scs.cl/WsseamPROD/WSEAMC/ws/ObtenerEquipos?OBJ_MRC=E585&OBJ_ESPE=TV
 status: down
-code: 404
-responseTime: 525
-lastUpdated: 2024-12-09T23:18:01.596Z
+code: 502
+responseTime: 2890
+lastUpdated: 2024-12-10T23:17:39.462Z
 startTime: 2023-05-04T14:44:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
