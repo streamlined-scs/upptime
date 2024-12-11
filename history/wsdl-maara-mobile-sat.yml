@@ -1,7 +1,7 @@
 url: http://eam.maaracorp.com:8083/WsseamSAT/WSEAMC/ws/ObtenerOrdenesdetrabajo?EVT_PERSON=4205
 status: up
 code: 200
-responseTime: 107
-lastUpdated: 2024-12-10T23:17:05.228Z
+responseTime: 228
+lastUpdated: 2024-12-11T23:17:12.370Z
 startTime: 2022-05-04T22:13:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
