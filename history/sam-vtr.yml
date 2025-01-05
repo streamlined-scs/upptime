@@ -1,7 +1,7 @@
 url: https://seam.vtr.cl/obtenerListadoActividades?wsdl
-status: down
-code: 503
-responseTime: 965
-lastUpdated: 2025-01-05T02:35:52.749Z
+status: up
+code: 200
+responseTime: 885
+lastUpdated: 2025-01-05T03:06:56.321Z
 startTime: 2023-05-31T00:55:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
