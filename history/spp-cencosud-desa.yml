@@ -1,7 +1,7 @@
 url: https://spp-cenco.streamlined-scs.cl/auth/login
-status: up
-code: 200
-responseTime: 553
-lastUpdated: 2025-01-23T23:16:38.770Z
+status: down
+code: 502
+responseTime: 3070
+lastUpdated: 2025-01-24T02:21:41.394Z
 startTime: 2023-05-04T14:44:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
