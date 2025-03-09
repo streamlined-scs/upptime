@@ -1,7 +1,7 @@
 url: https://streamlined.cl
-status: up
-code: 200
-responseTime: 6430
-lastUpdated: 2025-03-08T23:14:50.028Z
+status: down
+code: 429
+responseTime: 294
+lastUpdated: 2025-03-09T14:24:56.398Z
 startTime: 2022-02-03T21:45:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
