@@ -1,7 +1,7 @@
 url: https://www.streamlined.cl/webmail/log-in
-status: up
-code: 202
-responseTime: 293
-lastUpdated: 2025-03-10T04:26:28.612Z
+status: down
+code: 429
+responseTime: 202
+lastUpdated: 2025-03-10T04:37:48.416Z
 startTime: 2023-05-04T15:39:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
