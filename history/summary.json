@@ -36,9 +36,9 @@
     "slug": "eam-cencosud",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.53%",
     "time": 666,
     "timeDay": 750,
@@ -46,7 +46,6 @@
     "timeMonth": 703,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-03-15": 9,
       "2025-03-11": 27,
       "2025-03-08": 15,
       "2025-03-04": 84,
@@ -74,9 +73,9 @@
     "slug": "spp-cencosud",
     "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "97.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "95.96%",
     "time": 2088,
     "timeDay": 1484,
@@ -84,7 +83,6 @@
     "timeMonth": 1433,
     "timeYear": 2099,
     "dailyMinutesDown": {
-      "2025-03-15": 9,
       "2025-03-11": 27,
       "2025-03-08": 15,
       "2025-03-04": 84,
@@ -144,7 +142,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 1438,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -507,8 +506,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -528,7 +526,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 1438,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -891,8 +890,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -912,7 +910,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 1438,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1275,8 +1274,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -1406,18 +1404,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsdl-hl.streamlined-app.io.ico",
     "slug": "wsdl-sam-highlift",
     "status": "down",
-    "uptime": "72.28%",
+    "uptime": "72.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.68%",
+    "uptimeYear": "14.66%",
     "time": 777,
     "timeDay": 493,
     "timeWeek": 489,
     "timeMonth": 534,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-03-15": 1439,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1741,14 +1740,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.71%",
+    "uptimeYear": "14.69%",
     "time": 619,
     "timeDay": 510,
     "timeWeek": 545,
     "timeMonth": 523,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-03-15": 1439,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2072,14 +2072,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.71%",
+    "uptimeYear": "14.69%",
     "time": 770,
     "timeDay": 599,
     "timeWeek": 552,
     "timeMonth": 534,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2025-03-15": 1439,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2425,9 +2426,9 @@
     "slug": "wsdl-cencosud-mobile-sam",
     "status": "up",
     "uptime": "98.09%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "96.46%",
     "time": 593,
     "timeDay": 200,
@@ -2435,7 +2436,6 @@
     "timeMonth": 147,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2025-03-15": 9,
       "2025-03-11": 27,
       "2025-03-08": 15,
       "2025-03-04": 84,
@@ -2494,9 +2494,9 @@
     "slug": "wsdl-cencosud-reportes",
     "status": "up",
     "uptime": "98.05%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "96.46%",
     "time": 946,
     "timeDay": 474,
@@ -2504,7 +2504,6 @@
     "timeMonth": 471,
     "timeYear": 946,
     "dailyMinutesDown": {
-      "2025-03-15": 9,
       "2025-03-11": 27,
       "2025-03-08": 15,
       "2025-03-04": 84,
@@ -2566,7 +2565,7 @@
     "uptime": "99.79%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "85.81%",
-    "uptimeMonth": "96.35%",
+    "uptimeMonth": "96.42%",
     "uptimeYear": "99.53%",
     "time": 3072,
     "timeDay": 6077,
@@ -2621,7 +2620,7 @@
     "uptime": "99.74%",
     "uptimeDay": "98.91%",
     "uptimeWeek": "85.81%",
-    "uptimeMonth": "96.36%",
+    "uptimeMonth": "96.42%",
     "uptimeYear": "99.54%",
     "time": 464,
     "timeDay": 450,
@@ -2736,8 +2735,7 @@
       "2024-03-22": 720,
       "2024-03-20": 138,
       "2024-03-19": 1415,
-      "2024-03-18": 187,
-      "2024-03-16": 728
+      "2024-03-18": 187
     }
   },
   {
@@ -2793,18 +2791,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgi.streamlined-scs.cl.ico",
     "slug": "smgi-metabase-streamlined",
     "status": "down",
-    "uptime": "96.59%",
+    "uptime": "96.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "90.80%",
+    "uptimeYear": "90.78%",
     "time": 1534,
     "timeDay": 3565,
     "timeWeek": 3591,
     "timeMonth": 3572,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2025-03-15": 1439,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2850,18 +2849,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.streamlined-scs.cl.ico",
     "slug": "gitlab-streamlined",
     "status": "down",
-    "uptime": "93.29%",
+    "uptime": "93.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "83.53%",
+    "uptimeYear": "83.51%",
     "time": 1147,
     "timeDay": 3565,
     "timeWeek": 3541,
     "timeMonth": 3571,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2025-03-15": 1439,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -3053,8 +3053,7 @@
       "2024-06-06": 1339,
       "2024-06-05": 125,
       "2024-04-10": 42,
-      "2024-03-19": 825,
-      "2024-03-16": 501
+      "2024-03-19": 825
     }
   },
   {
@@ -3063,7 +3062,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsdl-demo.streamlined-scs.cl.ico",
     "slug": "wsdl-sam-scs-demo",
     "status": "down",
-    "uptime": "43.91%",
+    "uptime": "43.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -3074,7 +3073,8 @@
     "timeMonth": 490,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-03-15": 1439,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -3437,8 +3437,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -3447,18 +3446,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seam-admin-dev.streamlined-scs.cl.ico",
     "slug": "seamx-scs-desa",
     "status": "down",
-    "uptime": "87.44%",
+    "uptime": "87.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "76.75%",
+    "uptimeYear": "76.73%",
     "time": 826,
     "timeDay": 501,
     "timeWeek": 514,
     "timeMonth": 496,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2025-03-15": 1439,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -3544,8 +3544,7 @@
       "2024-06-12": 1174,
       "2024-06-11": 1440,
       "2024-06-10": 275,
-      "2024-04-10": 26,
-      "2024-03-16": 857
+      "2024-04-10": 26
     }
   },
   {
@@ -3554,18 +3553,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maara.streamlined-scs.cl.ico",
     "slug": "eam-maara-desa",
     "status": "down",
-    "uptime": "93.91%",
+    "uptime": "93.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.35%",
-    "uptimeYear": "88.88%",
+    "uptimeMonth": "36.12%",
+    "uptimeYear": "88.86%",
     "time": 551,
     "timeDay": 495,
     "timeWeek": 484,
     "timeMonth": 496,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2025-03-15": 1439,
+      "2025-03-16": 98,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -3623,7 +3623,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws-sat.streamlined-scs.cl.ico",
     "slug": "sat-maara-desa",
     "status": "up",
-    "uptime": "86.08%",
+    "uptime": "86.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "80.74%",
@@ -3783,6 +3783,7 @@
     "timeMonth": 482,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2025-03-16": 98,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -4146,8 +4147,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -4185,17 +4185,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eam-blumar.streamlined-scs.cl.ico",
     "slug": "eam-blumar-desa",
     "status": "down",
-    "uptime": "74.55%",
+    "uptime": "74.54%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.01%",
+    "uptimeWeek": "41.03%",
     "uptimeMonth": "52.32%",
-    "uptimeYear": "71.67%",
+    "uptimeYear": "71.65%",
     "time": 751,
     "timeDay": 597,
     "timeWeek": 552,
     "timeMonth": 575,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2025-03-16": 99,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -4307,8 +4308,7 @@
       "2024-05-23": 1440,
       "2024-05-22": 601,
       "2024-04-25": 452,
-      "2024-04-10": 41,
-      "2024-03-16": 925
+      "2024-04-10": 41
     }
   }
 ]
