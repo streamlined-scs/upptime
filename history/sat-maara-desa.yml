@@ -1,7 +1,7 @@
 url: https://ws-sat.streamlined-scs.cl/WsseamSAT/WSEAMC/ws/ObtenerEmpleado?MRC_CODE=RG-FAJ
-status: down
-code: 500
-responseTime: 29761
-lastUpdated: 2025-03-20T13:34:33.981Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2025-03-20T13:44:36.117Z
 startTime: 2023-06-19T15:03:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
