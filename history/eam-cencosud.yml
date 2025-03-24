@@ -1,7 +1,7 @@
 url: https://eam.cencosud.com/web/base/logindisp?tenant=SCSPROD
-status: down
-code: 403
-responseTime: 745
-lastUpdated: 2025-03-24T17:31:56.294Z
+status: up
+code: 200
+responseTime: 573
+lastUpdated: 2025-03-24T17:42:33.938Z
 startTime: 2022-02-03T21:45:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
