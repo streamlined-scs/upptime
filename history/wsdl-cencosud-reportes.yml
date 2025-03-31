@@ -1,7 +1,7 @@
 url: https://seam.cencosud.com/birt/frameset?__report=SCS_reporte_orden_compra_prod.rptdesign&__format=PDF&ORDERCODE=235883
-status: up
-code: 200
-responseTime: 711
-lastUpdated: 2025-03-30T23:17:04.126Z
+status: down
+code: 503
+responseTime: 2315
+lastUpdated: 2025-03-31T13:16:36.435Z
 startTime: 2022-04-13T23:23:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
